@@ -1,0 +1,5 @@
+FastAPI is most commonly framework used to make API's for Machine Learning Models..
+
+// Why we need API
+API is needed to interact with the machine learning model. API is used to send the data to the 
+model and get the response from the model.
