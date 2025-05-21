@@ -1,0 +1,11 @@
+HTTP Status codes are 3 digit numbers returned by a web server like (FastAPI) to indicate the result of a client's request (like from a browser or API consumer)...
+
+They help the client (browser, frontend, mobile app etc) to understand:
+-- whether the request was successful
+-- whether something went wrong
+-- and what kind of issue occured if any
+
+2xx -> Successful
+3xx -> Redirection
+4xx -> Client Error
+5xx -> Server Error

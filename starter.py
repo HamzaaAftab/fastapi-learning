@@ -3,7 +3,7 @@ from fastapi import FastAPI
 app = FastAPI()
 
 Person = {
-    "Hamza": "John",
+    "name": "John",
     "age": 30,
 }
 @app.get("/")

@@ -1,0 +1,3 @@
+Pydantic is a data validation library in Python... By default Python is not a static typed language it is dynamically typed meaning the type of variables are determined during runtime, Although it seems to be a very good for the beginner, but when it comes to Production level, you realize how important data validation and type validation could be, Therefore Pydantic plays an important role in Python..
+
+Pydantic is used in FastAPI, Machine learning Pipelines etc..

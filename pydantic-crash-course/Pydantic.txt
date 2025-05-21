@@ -1,0 +1,5 @@
+Step 1: Define a Pydantic Model (Class) that represents the ideal schema of the data. This includes the expected fields, their types and any valid constraints. Schema refers to the data you need for example in a database, user should have name, age, email. We define these fields with their respective types.
+
+Step 2: Instantiate the model with raw input data (usually a dictionary or JSON like structure)..Basically it checks the validation of your data means they are inputted with their required types.
+
+Step 3: 
